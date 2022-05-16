@@ -49,3 +49,20 @@ nav .nav-right-section .menu-icon {
     width: 25px;
     height: 25px;
 }
+
+main {
+    margin-top: 150px;
+    text-align: center;
+}
+
+main .main-logo {
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+    height: 200px;
+
+}
+
+main .main-logo img {
+    width: 300px;
+}
