@@ -59,10 +59,33 @@ main .main-logo {
     width: 530px;
     margin: 0 auto;
     margin-bottom: 35px;
-    height: 200px;
-
 }
 
 main .main-logo img {
     width: 300px;
+}
+
+main .main-input {
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+main .main-input-container {
+    width: 525px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main .main-input input {
+    width: 450px;
+    height: 40px;
+    border: none;
+    outline: none;
+    border-radius: 100px;
+    background-color: #f5f5f5;
+    padding-left: 10px;
+    font-size: 16px;
 }
